@@ -1,0 +1,19 @@
+<Root>  
+  <Int32List><Name>List</Name>
+	<Value>1</Value>
+	<Value>2</Value>
+	<Value>3</Value>
+	<Value>4</Value>
+	<Value>5</Value>
+  </Int32List>
+    <Int32List><Name>List1</Name>
+	<Value>2</Value>
+	<Value>3</Value>
+	<Value>4</Value>
+	<Value>5</Value>
+	<Value>6</Value>
+  </Int32List>
+  <BoolValue><Name>UseCache</Name>
+  <Value>false</Value>
+  </BoolValue>
+</Root>

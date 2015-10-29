@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 945915198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 110858ae716a59267286e7f7e409f8f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 79cab2014ebac485814dcb88a190c743
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefab/Map/Schoolmap.prefab
+Dependencies: []

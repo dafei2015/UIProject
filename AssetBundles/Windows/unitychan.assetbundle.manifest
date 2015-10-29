@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 801759767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b87e133e556497b5e8de1f58a1ee0b77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 845e76b8c7786387901b0c5ac7277925
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefab/Character/unitychan.prefab
+Dependencies: []

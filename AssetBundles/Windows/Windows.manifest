@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uiloginwindow.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: uidebugwindowroot.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: uicreaterolewindowroot.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: unitychan.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: loginmusic.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: testlevel01.assetbundle
+      Dependencies: {}
